@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/ChooseImage/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/avater.png",
+        "source": "/Users/goobird-iOS004/Desktop/ChooseImage/app/src/main/res/mipmap-xxhdpi/avater.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/ChooseImage/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/apple/Desktop/ChooseImage/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/ChooseImage/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/avater.png",
+        "source": "/Users/apple/Desktop/ChooseImage/app/src/main/res/mipmap-xxhdpi/avater.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/ChooseImage/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/goobird-iOS004/Desktop/ChooseImage/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/ChooseImage/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/goobird-iOS004/Desktop/ChooseImage/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/ChooseImage/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/apple/Desktop/ChooseImage/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
